@@ -34,6 +34,7 @@ class RemoveConsicitiveElement
 		{
 			System.out.print(k+" ");
 		}
+		
 	}
 	
 }
