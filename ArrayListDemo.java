@@ -9,7 +9,7 @@ class ArrayListDemo
 	}
 
 	//Geting Value using IndexNumber
-	static void getingValue(Integer IndexNum)
+	static void getingValue(int IndexNum)
 	{
 		System.out.println(arr.get(IndexNum));
 	}
@@ -31,7 +31,7 @@ class ArrayListDemo
 	}
 
 	//Set value to given index (Replace)
-	static void setValue(int indexNum,int value)
+	static void setValue(int indexNum,Integer value)
 	{
 		arr.set(indexNum,value);
 	}
